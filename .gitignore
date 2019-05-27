@@ -1,6 +1,9 @@
+/.vscode
 /maps
 /output
+/metrics
 /test/osz
 /venv
 /.idea
-download.log
+*.log
+**/__pycache__/**
